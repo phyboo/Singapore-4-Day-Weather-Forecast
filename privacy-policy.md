@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: nochrome
 title: Privacy Policy
+permalink: /privacy-policy.html
 ---
 
 # Privacy Policy for Singapore Weather Forecast (4-Day)
