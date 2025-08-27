@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for Singapore Weather Forecast (4-Day)
 
 _Last updated: August 2025_
